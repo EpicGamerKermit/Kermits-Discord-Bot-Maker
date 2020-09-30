@@ -1,0 +1,39 @@
+[0213/134956.356:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0213/135120.888:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0213/135231.943:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0213/141811.690:ERROR:process_info.cc(349)] VirtualQueryEx: Accès refusé. (0x5)
+[0213/141811.691:ERROR:process_info.cc(570)] ReadMemoryInfo failed
+[0213/141811.693:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0213/141811.693:ERROR:exception_snapshot_win.cc(87)] thread ID 14608 not found in process
+[0213/141811.693:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0213/141811.693:ERROR:scoped_process_suspend.cc(39)] NtResumeProcess: Tentative d’accès à un processus en cours d’arrêt.  (0xc000010a)
+[0213/142200.561:ERROR:process_info.cc(349)] VirtualQueryEx: Accès refusé. (0x5)
+[0213/142200.562:ERROR:process_info.cc(570)] ReadMemoryInfo failed
+[0213/142200.562:ERROR:process_reader_win.cc(242)] ReadMemory at 0x799697c of 12 bytes failed: Seule une partie d’une requête ReadProcessMemory ou WriteProcessMemory a été effectuée. (0x12B)
+[0213/142200.571:WARNING:process_snapshot_win.cc(71)] ReadMemory ExceptionInformation failed
+[0213/142200.571:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0213/142200.571:ERROR:scoped_process_suspend.cc(39)] NtResumeProcess: Tentative d’accès à un processus en cours d’arrêt.  (0xc000010a)
+[0213/142225.047:ERROR:process_info.cc(349)] VirtualQueryEx: Accès refusé. (0x5)
+[0213/142225.047:ERROR:process_info.cc(570)] ReadMemoryInfo failed
+[0213/142225.050:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0213/142225.050:ERROR:exception_snapshot_win.cc(87)] thread ID 12864 not found in process
+[0213/142225.050:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0213/142225.050:ERROR:scoped_process_suspend.cc(39)] NtResumeProcess: Tentative d’accès à un processus en cours d’arrêt.  (0xc000010a)
+[0213/142228.845:ERROR:process_info.cc(349)] VirtualQueryEx: Accès refusé. (0x5)
+[0213/142228.845:ERROR:process_info.cc(570)] ReadMemoryInfo failed
+[0213/142228.845:ERROR:process_reader_win.cc(242)] ReadMemory at 0xd5697c of 12 bytes failed: Seule une partie d’une requête ReadProcessMemory ou WriteProcessMemory a été effectuée. (0x12B)
+[0213/142228.846:WARNING:process_snapshot_win.cc(71)] ReadMemory ExceptionInformation failed
+[0213/142228.846:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0213/142228.846:ERROR:scoped_process_suspend.cc(39)] NtResumeProcess: Tentative d’accès à un processus en cours d’arrêt.  (0xc000010a)
+[0213/142231.866:ERROR:process_info.cc(349)] VirtualQueryEx: Accès refusé. (0x5)
+[0213/142231.866:ERROR:process_info.cc(570)] ReadMemoryInfo failed
+[0213/142231.869:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0213/142231.869:ERROR:exception_snapshot_win.cc(87)] thread ID 2084 not found in process
+[0213/142231.869:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0213/142231.869:ERROR:scoped_process_suspend.cc(39)] NtResumeProcess: Tentative d’accès à un processus en cours d’arrêt.  (0xc000010a)
+[0918/090143.558:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0918/100550.682:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0918/100718.480:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0930/171743.273:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0930/182940.955:ERROR:http_transport_win.cc(170)] WinHttpCrackUrl: The URL does not use a recognized protocol  (0x2ee6)
+[0930/185143.223:WARNING:chrome_main_delegate.cc(569)] final extension: .js

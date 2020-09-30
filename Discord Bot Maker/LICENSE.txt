@@ -1,0 +1,6 @@
+Discord Bot Maker was created by Robert Borghese. 
+© Robert Borghese 2017. All rights reserved.
+
+Discord Bot Maker has no official affiliation with Discord.
+For more information about Discord itself, please visit the website:
+https://discordapp.com/
